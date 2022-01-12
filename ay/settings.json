@@ -1,0 +1,25 @@
+{
+  "users": {
+    "continue": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+      "monitor_size_x": 1920,
+      "monitor_size_y": 1080,
+      "cookies": {
+        "xf_user": "2464511%2C66fa820e3da2a9cdb0c5d8349740291f1ac5f8e2",
+        "xf_tfa_trust": "5T6mE4IcsvetT9U8PEIR8U9wYtgFcYDw"
+      },
+      "proxy_pool": [
+        "https://lWClux:L7FGqrkkgb@45.11.21.179:5500",
+        "https://lWClux:L7FGqrkkgb@46.8.14.118:5500",
+        "https://lWClux:L7FGqrkkgb@188.130.143.138:5500"
+      ]
+    }
+  },
+  "key" : "KVMFF-ZVGUU-HWPQS-VAXMG",
+  "proxy_type": 2,
+  "lolz_domain": "lolz.guru",
+  "save_error_images": true,
+  "found_count": 8,
+  "low_time": 20,
+  "high_time": 20
+}

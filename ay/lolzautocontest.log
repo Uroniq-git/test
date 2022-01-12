@@ -1,0 +1,442 @@
+[32m2022-01-12 12:03:16,232[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8muser parameters ('continue', {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36', 'monitor_size_x': 1920, 'monitor_size_y': 1080, 'cookies': {'xf_user': '2464511%2C66fa820e3da2a9cdb0c5d8349740291f1ac5f8e2', 'xf_tfa_trust': '5T6mE4IcsvetT9U8PEIR8U9wYtgFcYDw'}, 'proxy_pool': ['https://log:pass@127.0.0.10:8081', 'socks5://log:pass@10.0.0.1:9050']})[0m
+[32m2022-01-12 12:03:16,232[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwork cookies <RequestsCookieJar[<Cookie xf_tfa_trust=5T6mE4IcsvetT9U8PEIR8U9wYtgFcYDw for .lolz.guru/>, <Cookie xf_user=2464511%2C66fa820e3da2a9cdb0c5d8349740291f1ac5f8e2 for .lolz.guru/>, <Cookie xf_feed_custom_order=post_date for lolz.guru/>, <Cookie xf_logged_in=1 for lolz.guru/>, <Cookie xf_viewedContestsHidden=1 for lolz.guru/>]>[0m
+[32m2022-01-12 12:03:16,234[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwork headers {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}[0m
+[32m2022-01-12 12:03:16,963[0m [34mcontinue[0m [1;30mNOTICE[0m [35mip: 136.169.224.221[0m
+[32m2022-01-12 12:03:16,964[0m [34mcontinue[0m [1;30mINFO[0m loop at 0.73 seconds
+[32m2022-01-12 12:03:17,351[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mlolz asks to complete aes task[0m
+[32m2022-01-12 12:03:17,351[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mPoW answer 52e730287080501656c31c25271a5eb6[0m
+[32m2022-01-12 12:03:17,352[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhttps://lolz.guru/forums/contests/ had JS PoW[0m
+[32m2022-01-12 12:03:18,204[0m [34mcontinue[0m [1;30mNOTICE[0m [35mdetected 31 contests[0m
+[32m2022-01-12 12:03:18,205[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in I'm new thread id 3373735[0m
+[32m2022-01-12 12:03:19,337[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641970998,03ff4893118def12a27cb68eeacf172fcb5371cd[0m
+[32m2022-01-12 12:03:19,342[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:19,342[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: ea9e0c8b55488d80cd5d50ba690725c4[0m
+[32m2022-01-12 12:03:20,084[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 943679646[0m
+[32m2022-01-12 12:03:20,113[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 212,144 diff: 141671.30[0m
+[32m2022-01-12 12:03:20,318[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:20,319[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:20,989[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:20,989[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in I'm new thread id 3373735[0m
+[32m2022-01-12 12:03:20,991[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3373735/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:20,992[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Don't get bored thread id 3375684[0m
+[32m2022-01-12 12:03:22,358[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971001,cd9dea04a8cf3f5435a52ff68a948b7b85f2d77c[0m
+[32m2022-01-12 12:03:22,365[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:22,365[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 829134687818cbfdbdc6700995eac350[0m
+[32m2022-01-12 12:03:22,874[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 48260319[0m
+[32m2022-01-12 12:03:22,885[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 184,11 diff: 9390.75[0m
+[32m2022-01-12 12:03:23,079[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:23,080[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:23,685[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:23,685[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Don't get bored thread id 3375684[0m
+[32m2022-01-12 12:03:23,687[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375684/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:23,687[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Oh, is it for me? thread id 3375678[0m
+[32m2022-01-12 12:03:24,906[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971004,1102fcf7f37f47cb577054c455aaab7e202b0b6d[0m
+[32m2022-01-12 12:03:24,910[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:24,910[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 4f6096b204a6bbde5ad72e9c5c1f2475[0m
+[32m2022-01-12 12:03:25,342[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2518459293[0m
+[32m2022-01-12 12:03:25,354[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 1,143 diff: 97454.33[0m
+[32m2022-01-12 12:03:25,530[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:25,530[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:26,143[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:26,144[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Oh, is it for me? thread id 3375678[0m
+[32m2022-01-12 12:03:26,145[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375678/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:26,145[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in 50th draw already thread id 3375676[0m
+[32m2022-01-12 12:03:27,425[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971006,30f742ca0fa8b43adb94ca7be86921da799a919a[0m
+[32m2022-01-12 12:03:27,428[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:27,429[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 6b70b7f09c05fd6eb9f6316e32f433ed[0m
+[32m2022-01-12 12:03:27,898[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1613713676[0m
+[32m2022-01-12 12:03:27,912[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 189,77 diff: 158115.49[0m
+[32m2022-01-12 12:03:28,126[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:28,126[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:29,042[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:29,043[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in 50th draw already thread id 3375676[0m
+[32m2022-01-12 12:03:29,043[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375676/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:29,044[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in For those who did not sleep at night: thread id 3375664[0m
+[32m2022-01-12 12:03:30,567[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971009,6cbcbf9ed5d16c151de5226bcb774aa8845335c8[0m
+[32m2022-01-12 12:03:30,570[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:30,570[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 07ce8f89b17287651ac200573eeee8b6[0m
+[32m2022-01-12 12:03:31,146[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 761238833[0m
+[32m2022-01-12 12:03:31,158[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 155,58 diff: 13401.40[0m
+[32m2022-01-12 12:03:31,395[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:31,395[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:32,032[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:32,033[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in For those who did not sleep at night: thread id 3375664[0m
+[32m2022-01-12 12:03:32,035[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375664/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:32,035[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Daddies thread id 3375647[0m
+[32m2022-01-12 12:03:33,887[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971013,52b199098d9ce4a86f39611386026be67c95da05[0m
+[32m2022-01-12 12:03:33,890[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:33,891[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: ccbf31e90cec52e4e38a3476e5c9f1f2[0m
+[32m2022-01-12 12:03:34,460[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2581297637[0m
+[32m2022-01-12 12:03:34,470[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 209,85 diff: 10202.16[0m
+[32m2022-01-12 12:03:34,686[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:34,687[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:35,248[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:35,249[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Daddies thread id 3375647[0m
+[32m2022-01-12 12:03:35,250[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375647/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:35,251[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Won a penny, share thread id 3375621[0m
+[32m2022-01-12 12:03:36,619[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971015,fcf7b50f65a5e5cfe98522cc5620eb7a5d630dd4[0m
+[32m2022-01-12 12:03:36,623[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:36,623[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: ce323973a2a0c96583d68ca8708381f8[0m
+[32m2022-01-12 12:03:37,074[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3677735785[0m
+[32m2022-01-12 12:03:37,083[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 53,63 diff: 9667.93[0m
+[32m2022-01-12 12:03:37,263[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:37,263[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:37,820[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:37,821[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Won a penny, share thread id 3375621[0m
+[32m2022-01-12 12:03:37,822[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375621/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:37,823[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Chuvaaak, this is an easy life hack thread id 3375211[0m
+[32m2022-01-12 12:03:39,178[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971018,6f7d7caed035e45dc8fe866816a87916ce5a5d68[0m
+[32m2022-01-12 12:03:39,180[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:39,181[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 694361be886d83bf582837e1454c094b[0m
+[32m2022-01-12 12:03:39,690[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2475162329[0m
+[32m2022-01-12 12:03:39,701[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 193,143 diff: 17345.54[0m
+[32m2022-01-12 12:03:39,890[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:39,891[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:40,439[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:40,439[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Chuvaaak, this is an easy life hack thread id 3375211[0m
+[32m2022-01-12 12:03:40,440[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375211/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:40,440[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Goodnight thread id 3375160[0m
+[32m2022-01-12 12:03:41,605[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971021,f986dd99a56d9878bf9dbbdfff77efff47f9822e[0m
+[32m2022-01-12 12:03:41,608[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:41,609[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 6be53c39d94f9a970b9b13d4ed56bc7a[0m
+[32m2022-01-12 12:03:42,088[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 851544267[0m
+[32m2022-01-12 12:03:42,101[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 87,105 diff: 24471.72[0m
+[32m2022-01-12 12:03:42,323[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:42,324[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:42,985[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:42,986[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Goodnight thread id 3375160[0m
+[32m2022-01-12 12:03:42,987[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3375160/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:42,988[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Generous Novokek thread id 3374984[0m
+[32m2022-01-12 12:03:44,236[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971023,e2f0511fbce450ffe946b4e49978e38de48d68b7[0m
+[32m2022-01-12 12:03:44,239[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:44,239[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 6262df277c53fafa94f05ecd62ec02ed[0m
+[32m2022-01-12 12:03:44,696[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1155476498[0m
+[32m2022-01-12 12:03:44,708[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 77,18 diff: 18981.09[0m
+[32m2022-01-12 12:03:44,891[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:44,892[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:45,424[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:45,426[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Generous Novokek thread id 3374984[0m
+[32m2022-01-12 12:03:45,427[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374984/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:45,428[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in 300 Good Luck thread id 3374902[0m
+[32m2022-01-12 12:03:46,707[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971026,edb26ec628ac7e95919944108945848651b5ab67[0m
+[32m2022-01-12 12:03:46,712[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:46,713[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 95acea544d7b3ce4576c0c6cacfa9ce1[0m
+[32m2022-01-12 12:03:47,255[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2394678640[0m
+[32m2022-01-12 12:03:47,264[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 72,54 diff: 15583.91[0m
+[32m2022-01-12 12:03:47,562[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:47,563[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:48,275[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:48,275[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in 300 Good Luck thread id 3374902[0m
+[32m2022-01-12 12:03:48,276[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374902/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:48,277[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in NOVOKEK WITH UNIQUE thread id 3374839[0m
+[32m2022-01-12 12:03:49,700[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971029,4fab103a0fc5bc4907bd5a5c8bcd1a5e641b38f7[0m
+[32m2022-01-12 12:03:49,702[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:49,703[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 3c838a983656d8916454aaf1c3021644[0m
+[32m2022-01-12 12:03:50,459[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3592618121[0m
+[32m2022-01-12 12:03:50,476[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 218,27 diff: 5057.25[0m
+[32m2022-01-12 12:03:50,891[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:50,891[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:51,635[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:51,636[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in NOVOKEK WITH UNIQUE thread id 3374839[0m
+[32m2022-01-12 12:03:51,638[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374839/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:51,639[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Fingers and denyuzhka thread id 3374820[0m
+[32m2022-01-12 12:03:53,574[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971032,509f06f5d44a8d9687d72a47847eec77db573b52[0m
+[32m2022-01-12 12:03:53,579[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:53,579[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 4cab15ad0ce8420b4746a49cc00d1aa7[0m
+[32m2022-01-12 12:03:54,776[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1811496568[0m
+[32m2022-01-12 12:03:54,787[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 162,70 diff: 8439.87[0m
+[32m2022-01-12 12:03:55,249[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:03:55,250[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:03:56,177[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:03:56,177[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Fingers and denyuzhka thread id 3374820[0m
+[32m2022-01-12 12:03:56,180[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374820/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:03:56,181[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in PostChecker subscription forever [500p] thread id 3374591[0m
+[32m2022-01-12 12:03:59,510[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971038,f383511e20b0276540a8c0bc12327f12a38f7d77[0m
+[32m2022-01-12 12:03:59,512[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:03:59,513[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 348b191ad62e8adda32e98e018e1d6c4[0m
+[32m2022-01-12 12:04:00,896[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2618295783[0m
+[32m2022-01-12 12:04:00,907[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 52,149 diff: 22893.12[0m
+[32m2022-01-12 12:04:01,330[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:01,331[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:02,498[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:02,499[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in PostChecker subscription forever [500p] thread id 3374591[0m
+[32m2022-01-12 12:04:02,501[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374591/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:02,502[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Well, let's talk? thread id 3374556[0m
+[32m2022-01-12 12:04:04,828[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971044,64af712758bb1d0cdb6b51fe394c3adba2e051a6[0m
+[32m2022-01-12 12:04:04,831[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:04,831[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 9c963f92e0b0156f79f662a13f37ce64[0m
+[32m2022-01-12 12:04:05,371[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 262199061[0m
+[32m2022-01-12 12:04:05,383[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 69,10 diff: 7340.49[0m
+[32m2022-01-12 12:04:05,560[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:05,560[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:06,104[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:06,105[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Well, let's talk? thread id 3374556[0m
+[32m2022-01-12 12:04:06,107[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3374556/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:06,108[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in All the best for you thread id 3373955[0m
+[32m2022-01-12 12:04:07,360[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971046,5fab65efab4cf97db58de38419ae21a13626b770[0m
+[32m2022-01-12 12:04:07,363[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:07,364[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 310e9aebcc41c3a99bd3e5010607cbda[0m
+[32m2022-01-12 12:04:07,858[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2580210176[0m
+[32m2022-01-12 12:04:07,867[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 185,64 diff: 9969.92[0m
+[32m2022-01-12 12:04:08,060[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:08,060[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:08,653[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:08,653[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in All the best for you thread id 3373955[0m
+[32m2022-01-12 12:04:08,655[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3373955/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:08,655[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Happy new year everyone guys thread id 3373823[0m
+[32m2022-01-12 12:04:09,832[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971049,1588e5d9a447d7a58e25d89dfbe08314dc200456[0m
+[32m2022-01-12 12:04:09,836[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:09,837[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 7a8d0326c21bdce2b083606d0bae5163[0m
+[32m2022-01-12 12:04:10,549[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1917422082[0m
+[32m2022-01-12 12:04:10,558[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 170,87 diff: 43275.96[0m
+[32m2022-01-12 12:04:10,774[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:10,775[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:11,330[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:11,330[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Happy new year everyone guys thread id 3373823[0m
+[32m2022-01-12 12:04:11,331[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3373823/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:11,333[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Happy birthday s1ren thread id 3373740[0m
+[32m2022-01-12 12:04:12,853[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971052,dd0d19b123d9e11d5b2bc6f2064068a4a671434f[0m
+[32m2022-01-12 12:04:12,855[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:12,856[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 25fef29e6c2e5623972644e99cd17ce4[0m
+[32m2022-01-12 12:04:13,307[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 4131277082[0m
+[32m2022-01-12 12:04:13,320[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 159,117 diff: 6266.24[0m
+[32m2022-01-12 12:04:13,538[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:13,538[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:14,120[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:14,121[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Happy birthday s1ren thread id 3373740[0m
+[32m2022-01-12 12:04:14,122[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3373740/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:14,122[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in For doshik and beer thread id 3372553[0m
+[32m2022-01-12 12:04:15,577[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971054,5a06e9368ef7a32ddc310fc968989965f8d5c146[0m
+[32m2022-01-12 12:04:15,580[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:15,580[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 03a81be1f31b29210593090d13d5b6d4[0m
+[32m2022-01-12 12:04:16,138[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2423997831[0m
+[32m2022-01-12 12:04:16,153[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 128,130 diff: 7511.75[0m
+[32m2022-01-12 12:04:16,364[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:16,364[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:16,901[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:16,902[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in For doshik and beer thread id 3372553[0m
+[32m2022-01-12 12:04:16,904[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3372553/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:16,905[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Peasant with a spear thread id 3372202[0m
+[32m2022-01-12 12:04:18,153[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971057,0a6556493c33637d5a14838d109c08853487e511[0m
+[32m2022-01-12 12:04:18,157[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:18,158[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: d3a8a0a491b5c4cbcc61d07521e3d47c[0m
+[32m2022-01-12 12:04:18,601[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2765739344[0m
+[32m2022-01-12 12:04:18,610[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 50,134 diff: 10855.76[0m
+[32m2022-01-12 12:04:18,824[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:18,824[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:19,484[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:19,485[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Peasant with a spear thread id 3372202[0m
+[32m2022-01-12 12:04:19,486[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3372202/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:19,486[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Sponsor of distribution on the spawn my skid in the casino thread id 3372128[0m
+[32m2022-01-12 12:04:20,717[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971060,cb9213c273da3023405fd8f235e41cb2e99611f9[0m
+[32m2022-01-12 12:04:20,721[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:20,721[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: b5cf38bdfc6396abcd687ca2ac47b8ad[0m
+[32m2022-01-12 12:04:21,256[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3944761112[0m
+[32m2022-01-12 12:04:21,267[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 225,153 diff: 37116.08[0m
+[32m2022-01-12 12:04:21,486[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:21,487[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:22,068[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:22,068[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Sponsor of distribution on the spawn my skid in the casino thread id 3372128[0m
+[32m2022-01-12 12:04:22,070[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3372128/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:22,071[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in First thread id 3372066[0m
+[32m2022-01-12 12:04:23,650[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971063,d4c10ac6cc665d3329982e102a262531eb8abb00[0m
+[32m2022-01-12 12:04:23,653[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:23,653[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 5731f74e76f291da4365f2d26b58e7b5[0m
+[32m2022-01-12 12:04:24,191[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2730228960[0m
+[32m2022-01-12 12:04:24,202[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 85,82 diff: 9194.54[0m
+[32m2022-01-12 12:04:24,435[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:24,435[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:25,075[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:25,075[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in First thread id 3372066[0m
+[32m2022-01-12 12:04:25,076[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3372066/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:25,076[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Morning thread id 3371443[0m
+[32m2022-01-12 12:04:26,241[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971065,59a4e09c199acfda0f3cc80e02b65cde44c9a8cb[0m
+[32m2022-01-12 12:04:26,245[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:26,245[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 45d6b9fda00dbc9d9a7fd63d2e4586b4[0m
+[32m2022-01-12 12:04:26,800[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 311402331[0m
+[32m2022-01-12 12:04:26,809[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 233,155 diff: 10243.18[0m
+[32m2022-01-12 12:04:27,057[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:27,057[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:27,585[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:27,586[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Morning thread id 3371443[0m
+[32m2022-01-12 12:04:27,587[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3371443/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:27,587[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Few clips in pranks thread id 3371333[0m
+[32m2022-01-12 12:04:28,788[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971068,9236821c65245869f370d1c2577759775a9800d4[0m
+[32m2022-01-12 12:04:28,792[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:28,793[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: bf9f7463cec9c852f7b745c684b5324d[0m
+[32m2022-01-12 12:04:29,273[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3075845618[0m
+[32m2022-01-12 12:04:29,284[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 178,114 diff: 12168.32[0m
+[32m2022-01-12 12:04:29,492[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:29,493[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:30,028[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:30,028[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Few clips in pranks thread id 3371333[0m
+[32m2022-01-12 12:04:30,029[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3371333/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:30,030[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in BEST YouTube SCUP thread id 3371177[0m
+[32m2022-01-12 12:04:31,278[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971070,a30adf8c482dbb85ca2f15305f967545809a9838[0m
+[32m2022-01-12 12:04:31,281[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:31,281[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 04554161816d2fc724a4a46e3c214773[0m
+[32m2022-01-12 12:04:31,695[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 966510982[0m
+[32m2022-01-12 12:04:31,708[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 84,154 diff: 14118.03[0m
+[32m2022-01-12 12:04:31,912[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:31,912[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:32,459[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:32,460[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in BEST YouTube SCUP thread id 3371177[0m
+[32m2022-01-12 12:04:32,462[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3371177/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:32,463[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Small anniversary: thread id 3370004[0m
+[32m2022-01-12 12:04:33,604[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971073,dc0aac37748840110d28b2c6f3b6b8d557e49418[0m
+[32m2022-01-12 12:04:33,607[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:33,607[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: d37df2eacd27e9c7d7c7989f194d854c[0m
+[32m2022-01-12 12:04:34,177[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 567817763[0m
+[32m2022-01-12 12:04:34,187[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 107,40 diff: 21587.40[0m
+[32m2022-01-12 12:04:34,385[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:34,386[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:34,940[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:34,941[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Small anniversary: thread id 3370004[0m
+[32m2022-01-12 12:04:34,942[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3370004/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:34,942[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in 300r thread id 3368493[0m
+[32m2022-01-12 12:04:36,548[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971075,0e34c06ca27bb71f20756b9d92349c9cfaca2985[0m
+[32m2022-01-12 12:04:36,552[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:36,552[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 48fa1e6d70ede7e3c6855a146828a7de[0m
+[32m2022-01-12 12:04:36,996[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2854927498[0m
+[32m2022-01-12 12:04:37,007[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 198,119 diff: 57571.67[0m
+[32m2022-01-12 12:04:37,218[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:37,219[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:37,759[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:37,760[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in 300r thread id 3368493[0m
+[32m2022-01-12 12:04:37,761[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3368493/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:37,761[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Money money money thread id 3368257[0m
+[32m2022-01-12 12:04:38,900[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971078,94d2c6b8c9e34755c272b9002d895ef704d2b75c[0m
+[32m2022-01-12 12:04:38,902[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:38,903[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 95cb592c8d5b01786d7edacc9fa74c4c[0m
+[32m2022-01-12 12:04:39,418[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 504165081[0m
+[32m2022-01-12 12:04:39,427[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 110,151 diff: 26088.84[0m
+[32m2022-01-12 12:04:39,628[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:39,628[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:40,187[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:40,188[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Money money money thread id 3368257[0m
+[32m2022-01-12 12:04:40,188[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3368257/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:40,189[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in What is this thread id 3367790[0m
+[32m2022-01-12 12:04:41,483[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971080,c661c4c0bace09723016edde37215b99bd757a94[0m
+[32m2022-01-12 12:04:41,487[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:41,487[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: e3c6102a79beb6c32ee3f26eabd57e1b[0m
+[32m2022-01-12 12:04:42,037[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1175256049[0m
+[32m2022-01-12 12:04:42,049[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 36,129 diff: 11958.06[0m
+[32m2022-01-12 12:04:42,240[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:42,240[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:42,779[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:42,779[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in What is this thread id 3367790[0m
+[32m2022-01-12 12:04:42,781[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3367790/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:42,783[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in The message you were waiting for today thread id 3367425[0m
+[32m2022-01-12 12:04:43,897[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971083,c9dc6f7983af5058bc737eabf92ac4e748e5c2d1[0m
+[32m2022-01-12 12:04:43,900[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:43,901[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 1832214e75683669b3619f1f2dd3a617[0m
+[32m2022-01-12 12:04:44,401[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2743707660[0m
+[32m2022-01-12 12:04:44,413[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 147,30 diff: 10405.74[0m
+[32m2022-01-12 12:04:44,600[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:44,601[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:45,152[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:45,153[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in The message you were waiting for today thread id 3367425[0m
+[32m2022-01-12 12:04:45,153[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3367425/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:04:45,154[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in School tomorrow: thread id 3366946[0m
+[32m2022-01-12 12:04:46,445[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971085,07ea71f435c5486605829909623cbec33e091e9b[0m
+[32m2022-01-12 12:04:46,451[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:04:46,452[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 09f21c0ce27930e4ccdc856b91aab182[0m
+[32m2022-01-12 12:04:46,938[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1807457755[0m
+[32m2022-01-12 12:04:46,950[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 1,20 diff: 12727.82[0m
+[32m2022-01-12 12:04:47,159[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:04:47,160[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:04:47,706[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:04:47,707[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in School tomorrow: thread id 3366946[0m
+[32m2022-01-12 12:04:47,708[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3366946/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:07,713[0m [34mcontinue[0m [1;30mINFO[0m loop at 111.48 seconds
+[32m2022-01-12 12:05:08,654[0m [34mcontinue[0m [1;30mNOTICE[0m [35mdetected 8 contests[0m
+[32m2022-01-12 12:05:08,655[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in They'll pick up fucking fuckers according to the ad thread id 3366407[0m
+[32m2022-01-12 12:05:09,938[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971109,2fc6adad76713fe7797bbba11bcbdc90613565fc[0m
+[32m2022-01-12 12:05:09,941[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:09,942[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 26d3b28ab2e6bdc474539c744471a609[0m
+[32m2022-01-12 12:05:10,399[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3473844357[0m
+[32m2022-01-12 12:05:10,410[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 235,132 diff: 58293.28[0m
+[32m2022-01-12 12:05:10,595[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:10,596[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:11,188[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:11,189[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in They'll pick up fucking fuckers according to the ad thread id 3366407[0m
+[32m2022-01-12 12:05:11,192[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3366407/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:11,195[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Tilt thread id 3366063[0m
+[32m2022-01-12 12:05:12,404[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971111,cfcb4e0da2a5e34b611d0236ea371e7954d8ecbe[0m
+[32m2022-01-12 12:05:12,408[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:12,409[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 37bb47aa4aacc6dddb428db5537f3d25[0m
+[32m2022-01-12 12:05:12,875[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1013047930[0m
+[32m2022-01-12 12:05:12,885[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 266,35 diff: 56267.87[0m
+[32m2022-01-12 12:05:13,148[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:13,148[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:13,831[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:13,831[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Tilt thread id 3366063[0m
+[32m2022-01-12 12:05:13,832[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3366063/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:13,832[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Tilt? thread id 3366060[0m
+[32m2022-01-12 12:05:15,216[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971114,8810782802004f034f3f7e851f86c8b02e9dd2f8[0m
+[32m2022-01-12 12:05:15,219[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:15,219[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: ebabed149e2703627699a762315c10d7[0m
+[32m2022-01-12 12:05:15,844[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 1587365456[0m
+[32m2022-01-12 12:05:15,854[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 84,32 diff: 23341.06[0m
+[32m2022-01-12 12:05:16,026[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:16,027[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:16,659[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:16,660[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Tilt? thread id 3366060[0m
+[32m2022-01-12 12:05:16,661[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3366060/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:16,664[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Tilt thread id 3366057[0m
+[32m2022-01-12 12:05:18,562[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971117,69690002d195e1d99fbc49e2bc26c11bae296506[0m
+[32m2022-01-12 12:05:18,566[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:18,567[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 7eaaeb8fd1247c4031a6ff688a315b07[0m
+[32m2022-01-12 12:05:19,180[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 4138218891[0m
+[32m2022-01-12 12:05:19,191[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 44,84 diff: 11862.16[0m
+[32m2022-01-12 12:05:19,397[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:19,397[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:20,030[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:20,031[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Tilt thread id 3366057[0m
+[32m2022-01-12 12:05:20,032[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3366057/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:20,033[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in Three hundred square meters just like that thread id 3365680[0m
+[32m2022-01-12 12:05:21,243[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971120,6faa5a4a2bbe233d9c86bfda05b8535fc09504a1[0m
+[32m2022-01-12 12:05:21,260[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:21,260[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 0f22885bc0a64287272352218cc2beec[0m
+[32m2022-01-12 12:05:21,767[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3493010078[0m
+[32m2022-01-12 12:05:21,779[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 60,10 diff: 15985.90[0m
+[32m2022-01-12 12:05:21,965[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:21,966[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:22,537[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:22,537[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in Three hundred square meters just like that thread id 3365680[0m
+[32m2022-01-12 12:05:22,538[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3365680/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:22,539[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in 300x1 Track of our childhood thread id 3364905[0m
+[32m2022-01-12 12:05:23,790[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971123,593dccf2ed5f8d3338f232d050a85d7ee249967b[0m
+[32m2022-01-12 12:05:23,793[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:23,793[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 5529640ae3b4980ee71998c77581ba75[0m
+[32m2022-01-12 12:05:24,276[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 2937381897[0m
+[32m2022-01-12 12:05:24,287[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 1,162 diff: 142560.32[0m
+[32m2022-01-12 12:05:24,453[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:24,454[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:25,025[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:25,026[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in 300x1 Track of our childhood thread id 3364905[0m
+[32m2022-01-12 12:05:25,027[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3364905/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:25,029[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in 300 thread id 3364751[0m
+[32m2022-01-12 12:05:26,590[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971125,4692951c8e90f525e32721f5d7a0e6aaec8e9ec1[0m
+[32m2022-01-12 12:05:26,595[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:26,597[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 3884533952a9e799994952b2ef11b7f1[0m
+[32m2022-01-12 12:05:27,318[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 3905297724[0m
+[32m2022-01-12 12:05:27,327[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 153,64 diff: 16849.04[0m
+[32m2022-01-12 12:05:27,586[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:27,588[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:28,479[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:28,480[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in 300 thread id 3364751[0m
+[32m2022-01-12 12:05:28,484[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3364751/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:28,485[0m [34mcontinue[0m [1;30mNOTICE[0m [35mparticipating in "Doing what you love is freedom. To love what you do is happiness" thread id 3364601[0m
+[32m2022-01-12 12:05:30,247[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mcsrf: 2464511,1641971129,61bbaecf162c40a7ea44ebec2ded837c1ea14f27[0m
+[32m2022-01-12 12:05:30,250[0m [34mcontinue[0m [1;30mVERBOSE[0m [34mfor Slider2Captcha using solver SolverSlider2[0m
+[32m2022-01-12 12:05:30,250[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msid: 959cdf8bbe4a388f5664270e82d6f2d0[0m
+[32m2022-01-12 12:05:30,972[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mhash: 964471812[0m
+[32m2022-01-12 12:05:30,983[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8msolved x,y: 213,162 diff: 27416.89[0m
+[32m2022-01-12 12:05:31,197[0m [34mcontinue[0m [1;30mVERBOSE[0m [34msend solution response is: 1[0m
+[32m2022-01-12 12:05:31,198[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mwaiting for participation...[0m
+[32m2022-01-12 12:05:31,769[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8mparsed[0m
+[32m2022-01-12 12:05:31,770[0m [34mcontinue[0m [1;30mSUCCESS[0m [1;32msuccessfully participated in "Doing what you love is freedom. To love what you do is happiness" thread id 3364601[0m
+[32m2022-01-12 12:05:31,773[0m [34mcontinue[0m [1;30mDEBUG[0m [38;5;8m{'_redirectStatus': 'ok', '_redirectTarget': 'https://lolz.guru/threads/3364601/', '_redirectMessage': 'contest__you_are_participating_now', '_visitor_conversationsUnread': '0', '_visitor_alertsUnread': '0'}[0m
+[32m2022-01-12 12:05:51,778[0m [34mcontinue[0m [1;30mINFO[0m loop at 155.55 seconds
+[32m2022-01-12 12:06:12,535[0m [34mcontinue[0m [1;30mINFO[0m loop at 176.30 seconds
